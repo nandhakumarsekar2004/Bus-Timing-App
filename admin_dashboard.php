@@ -327,7 +327,7 @@ if (!$recent_activity) {
                 <li><a href="upload_announcement.php"><i class="fas fa-bullhorn"></i> Add Announcement</a></li>
                 <li><a href="upload_notification.php"><i class="fas fa-bell"></i> Add Notification</a></li>
                 <li><a href="contact_data.php"><i class="fas fa-address-book"></i> Contact Database</a></li>
-                <li><a href="disolay_buses.php"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
+                <li><a href="display_buses.php"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
             </ul>
             <button id="darkModeToggle">Toggle Dark Mode</button>
         </div>
@@ -338,8 +338,8 @@ if (!$recent_activity) {
                     <input type="text" placeholder="Search...">
                 </div>
                 <div class="user-info">
-                    <img src="https://via.placeholder.com/40" alt="Admin Avatar">
-                    <span>Welcome, Admin</span>
+                    <img src="admin.jpg" alt="Admin Avatar">
+                    <span>Welcome Nandhakumar Sekar</span>
                 </div>
             </div>
             <div class="summary-cards">
