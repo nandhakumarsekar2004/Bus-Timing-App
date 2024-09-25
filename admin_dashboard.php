@@ -327,7 +327,7 @@ if (!$recent_activity) {
                 <li><a href="upload_announcement.php"><i class="fas fa-bullhorn"></i> Add Announcement</a></li>
                 <li><a href="upload_notification.php"><i class="fas fa-bell"></i> Add Notification</a></li>
                 <li><a href="contact_data.php"><i class="fas fa-address-book"></i> Contact Database</a></li>
-                <li><a href="admin_logout.php"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
+                <li><a href="disolay_buses.php"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
             </ul>
             <button id="darkModeToggle">Toggle Dark Mode</button>
         </div>
